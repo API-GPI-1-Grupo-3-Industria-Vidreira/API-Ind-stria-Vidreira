@@ -29,8 +29,9 @@ Os resultados dos projetos devem obedecer aos critérios do cliente disponibiliz
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
+Este projeto tem como objetivo apresentar uma análise de dados de importação e exportações do mercado da indústria vidreira, da seguinte forma:
+* Coletando e organizando dados de acordo com fontes confiáveis disponíveis;
+* Criar painéis de visualização das informações obtidas;
 * Organizar e estruturar as informações;
 * Versionar e controlar as alterações;
 * Facilitar o compartilhamento e feedback;
