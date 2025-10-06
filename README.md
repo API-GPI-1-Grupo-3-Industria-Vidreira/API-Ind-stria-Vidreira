@@ -51,12 +51,18 @@ Este projeto tem como objetivo apresentar uma análise de dados de importação 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-
+| 1    | Alta       |  Como cliente gostaria que fossem definidos indicadores-chave (KPIs) de importação e exportação para nortear o dashboard. | 20          | 1      |
+| 2    | Alta       | Como cliente, preciso que o sistema apresente um painel inicial com gráficos e tabelas básicas que mostrem uma visão geral do mercado vidreiro em São José dos Campos e Região. | 8          | 1      |
+| 3    | Alta       | Como analista de mercado quero avaliar a movimentação no setor Vidreiro do ecossistema Industrial Regional de São José dos Campos e Região. | 10          | 2      |
+|4| Alta| Como cliente quero entender onde estão localizados os polos industriais e transformadores de vidro em São José dos Campos e Região para avaliar oportunidades logísticas e comerciais. | 20 | 2 |
+|5| Média| Como tomador de decisão, quero conhecer as tecnologias empregadas nas diferentes etapas do setor vidreiro, para entender níveis de maturidade industrial e inovação. | 15 | 2 |
+|6| Alta| Como analista de negócios, quero acessar dados reais sobre exportações e importações de vidro em São José dos Campos e Região, para embasar decisões estratégicas. | 15 | 2 |
+|7| Baixa| Como empresa, quero entender as práticas de sustentabilidade e reciclagem no setor vidreiro, para alinhar estratégias com políticas ambientais. | 20 | 2 |
+|8| Alta| Como analista gostaria que o sistema trouxesse gráficos dinâmicos que me ajudem visualizar as tendências de importação e exportação. | 10 | 2 | 
+|9| Alta| Como cliente é importante que a usabilidade do dashboard seja validada junto aos stakeholders para garantir que atenda às expectativas. | 5 | 2 |
+|10| Alta| Como analista quero que o sistema permita comparativos históricos e apresente indicadores de performance para apoiar a análise estratégica. | 10 | 3 |
+|11| Alta| Como cliente antes da entrega, gostaria que fossem feitos testes finais de desempenho e usabilidade, para assegurar a qualidade da solução. | 5 | 3 |
+|12| Alta | Apresentação do Projeto | 2 | 3 |
 
 
 
