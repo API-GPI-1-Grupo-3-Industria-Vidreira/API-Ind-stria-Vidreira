@@ -74,6 +74,6 @@ Este projeto tem como objetivo apresentar uma análise de dados de importação 
 |-------------------|------------|----------|-----------|
 | 01                | 06/10/2025 | Concluído  | [MVP](MVP/sp1.md)  |
 | 02                | 10/11/2025 | Concluído  | [MVP](MVP/sp2.md)  |
-| 03                | 28/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| 03                | 24/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
