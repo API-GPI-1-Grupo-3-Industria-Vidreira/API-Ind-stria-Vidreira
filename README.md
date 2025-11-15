@@ -72,8 +72,8 @@ Este projeto tem como objetivo apresentar uma análise de dados de importação 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 06/10/2025 | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | 24/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| 01                | 06/10/2025 | Concluído  | [MVP](MVP/sp1.md)  |
+| 02                | 10/11/2025 | Concluído  | [MVP](MVP/sp2.md)  |
+| 03                | 28/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
